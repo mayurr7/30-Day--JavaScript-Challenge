@@ -37,7 +37,7 @@ if(a == b){
 
 //ternary  operator
 
-const checkNumber = (number) => {
+const checkNumber =  (number) => {
     return number >= 0 ? 'positive' : 'negative';
 }
 
